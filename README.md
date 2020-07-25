@@ -14,3 +14,4 @@ Here are some ideas to get to know me:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a good listener!
 
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul7668gupta)
