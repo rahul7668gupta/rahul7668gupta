@@ -2,8 +2,8 @@
 
 <!--
 **rahul7668gupta/rahul7668gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
+Here are some ideas to get to know me:
 
 - 🔭 I’m currently working on building Dapps.
 - 🌱 I’m currently learning ReactJS.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Google me: @rahul7668gupta](https://www.google.com/search?q=rahul7668gupta)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a good listener!
--->
+
