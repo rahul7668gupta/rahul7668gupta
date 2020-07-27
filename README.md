@@ -1,5 +1,5 @@
 ### Hi I'm Rahul 👋
-
+<img src="https://komarev.com/ghpvc/?username=rahul7668gupta&label=Views&color=blue&style=plastic" alt="rahul7668gupta" />
 <!--
 **rahul7668gupta/rahul7668gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
