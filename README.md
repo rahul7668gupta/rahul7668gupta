@@ -6,7 +6,7 @@
 Here are some ideas to get to know me:
 
 - 🔭 I’m currently working on building Dapps.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning ML.
 - 👯 I’m looking to collaborate on Dapp Projects.
 - 🤔 I’m looking for help with getting started on Data Science.
 - 💬 Ask me about Blockchain and Business.
