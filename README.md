@@ -8,8 +8,8 @@ Here are some ideas to get to know me:
 - 🔭 I’m currently working on building Airstack.
 - 👯 I’m looking to volunteer at web3 events.
 - 🤔 I’m looking for help with getting started on a business.
-- 💬 Ask me about MERN Stack, Blockchain and Business.
-- 📫 How to reach me: [Google me: @rahul7668gupta](https://www.google.com/search?q=rahul7668gupta)
+- 💬 Ask me about Golang, Blockchain and Business.
+- 📫 How to reach me: [DM me on Linkedin: @rahul7668gupta]([https://www.google.com/search?q=rahul7668gupta](https://www.linkedin.com/in/rahul7668gupta))
 - ⚡ Fun fact: I am a good listener!
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul7668gupta)
