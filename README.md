@@ -11,5 +11,3 @@ Here are some ideas to get to know me:
 - 💬 Ask me about Golang, Blockchain and Business.
 - 📫 How to reach me: [DM me on Linkedin: @rahul7668gupta]([https://www.google.com/search?q=rahul7668gupta](https://www.linkedin.com/in/rahul7668gupta))
 - ⚡ Fun fact: I am a good listener!
-
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul7668gupta)
